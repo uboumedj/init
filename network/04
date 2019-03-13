@@ -1,1 +1,1 @@
-route -n get default | grep 'gateway' | awk '{print $2}'
+netstat -rn | grep 'default' | sed q | awk '{print $2}'

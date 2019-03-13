@@ -1,1 +1,1 @@
-iptables -L
+ssh uboumedj@127.0.0.1

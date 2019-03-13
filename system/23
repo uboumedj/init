@@ -1,0 +1,2 @@
+Mode graphique: sudo adduser user_name + login après
+Mode SSH: ssh new_user@127.0.0.1
