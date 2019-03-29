@@ -1,4 +1,4 @@
-# 42 sysadmin introduction project: init
+# 42 system and network admin project: init
 
 This project is a very basic introduction to sysadmin commands, and is essentially a research work. It consists in three parts: 
 
